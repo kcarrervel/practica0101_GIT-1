@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T11:13:32.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="I1bFuVPg8rlmJ0dFPdAi" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T11:24:51.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7KydoFn0j6Yn2LLwwh3Y" version="20.3.3" type="github">
   <diagram id="dV5AvFHwJiYVH1rTCUHf" name="Página-1">
     <mxGraphModel dx="492" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,52 @@
         </mxCell>
         <mxCell id="HclYsy6iczqrfvcCUk_A-6" value="cambio &amp;gt;= 100" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HclYsy6iczqrfvcCUk_A-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="361" y="640" as="sourcePoint" />
+            <mxPoint x="361" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HclYsy6iczqrfvcCUk_A-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="840" as="sourcePoint" />
+            <mxPoint x="370" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HclYsy6iczqrfvcCUk_A-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HclYsy6iczqrfvcCUk_A-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="900" />
+              <mxPoint x="540" y="1020" />
+              <mxPoint x="370" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HclYsy6iczqrfvcCUk_A-73" value="expLógica" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250.0000000000001" y="870" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HclYsy6iczqrfvcCUk_A-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HclYsy6iczqrfvcCUk_A-74" target="HclYsy6iczqrfvcCUk_A-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="1000" />
+              <mxPoint x="200" y="1000" />
+              <mxPoint x="200" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HclYsy6iczqrfvcCUk_A-74" value="&amp;lt;acciones&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310.0000000000001" y="960" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HclYsy6iczqrfvcCUk_A-79" value="Falso" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480.0000000000001" y="880" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HclYsy6iczqrfvcCUk_A-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369.58" y="930" as="sourcePoint" />
+            <mxPoint x="369.58" y="960" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
